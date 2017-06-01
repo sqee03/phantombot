@@ -1,0 +1,8 @@
+[05-31-2017 @ 15:00:04.961 GMT] [SOCKET] Code [1000] Reason [] Remote Hangup [false]
+[05-31-2017 @ 15:15:39.293 GMT] [SOCKET] Code [1006] Reason [] Remote Hangup [true]
+[05-31-2017 @ 15:51:27.980 GMT] [SOCKET] Code [1000] Reason [] Remote Hangup [false]
+[05-31-2017 @ 16:09:17.117 GMT] [SOCKET] Code [-1] Reason [] Remote Hangup [true]
+[05-31-2017 @ 16:45:06.642 GMT] [SOCKET] Code [1000] Reason [] Remote Hangup [false]
+[05-31-2017 @ 17:16:03.076 GMT] [SOCKET] Code [1000] Reason [] Remote Hangup [false]
+[05-31-2017 @ 19:16:16.452 GMT] [SOCKET] Code [-1] Reason [] Remote Hangup [true]
+[05-31-2017 @ 22:41:26.564 GMT] [SOCKET] Code [1000] Reason [] Remote Hangup [false]

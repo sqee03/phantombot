@@ -1,0 +1,19 @@
+#PhantomBot Configuration File
+#Mon May 29 16:48:44 CEST 2017
+apioauth=oauth\:3k7tifx16nl0cvitf8a87xhv522a1e
+baseport=25000
+channel=sqee03
+msglimit30=18.75
+musicenable=true
+oauth=oauth\:ff5d6ai4goc7145r28zt4wymmv4q61
+owner=sqee03
+panelpassword=NarvankA102
+paneluser=sqee03
+usehttps=false
+user=sqeeBot
+webauth=gQgivKPatVnCdRd0S4yY5uqfTMpX9x
+webauthro=H5NMZnp7MzzGuW52pS2I4IODx6mNRD
+webenable=true
+whisperlimit60=60.0
+ytauth=lewElAeDdwHt5eEn3YH4uwIQx6Tue5
+ytauthro=avB2CbseI6XU0KudsjngG8hYP0YWGX

@@ -1,0 +1,7 @@
+[05-31-2017 @ 05:13:37.349 GMT] [init.js:732] Core loaded, initializing bot...
+[05-31-2017 @ 05:13:38.717 GMT] [init.js:1359] init.js api's loaded.
+[05-31-2017 @ 05:13:38.746 GMT] [logging.js:194] Starting Log Rotation
+[05-31-2017 @ 05:13:38.752 GMT] [logging.js:206] Finished Log Rotation
+[05-31-2017 @ 06:20:35.022 GMT] [init.js:572] sqeeBot enabled module "./handlers/donationHandler.js"
+[05-31-2017 @ 06:23:53.344 GMT] [init.js:572] sqeeBot enabled module "./handlers/subscribeHandler.js"
+[05-31-2017 @ 06:37:41.874 GMT] [init.js:572] sqeeBot enabled module "./systems/pointSystem.js"

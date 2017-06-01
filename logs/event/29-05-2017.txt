@@ -1,0 +1,15 @@
+[05-29-2017 @ 14:48:49.552 GMT] [init.js:732] Core loaded, initializing bot...
+[05-29-2017 @ 14:48:51.657 GMT] [init.js:1359] init.js api's loaded.
+[05-29-2017 @ 14:48:51.732 GMT] [logging.js:194] Starting Log Rotation
+[05-29-2017 @ 14:48:51.736 GMT] [logging.js:206] Finished Log Rotation
+[05-29-2017 @ 15:01:21.105 GMT] [init.js:572] sqeeBot enabled module "./commands/deathctrCommand.js"
+[05-29-2017 @ 15:03:46.263 GMT] [init.js:572] sqeeBot enabled module "./systems/ranksSystem.js"
+[05-29-2017 @ 15:06:43.982 GMT] [init.js:732] Core loaded, initializing bot...
+[05-29-2017 @ 15:06:45.082 GMT] [init.js:1359] init.js api's loaded.
+[05-29-2017 @ 15:06:45.107 GMT] [logging.js:194] Starting Log Rotation
+[05-29-2017 @ 15:06:45.112 GMT] [logging.js:206] Finished Log Rotation
+[05-29-2017 @ 15:09:25.015 GMT] [init.js:572] sqeeBot enabled module "./handlers/followHandler.js"
+[05-29-2017 @ 15:14:19.266 GMT] [init.js:572] sqeeBot enabled module "./systems/noticeSystem.js"
+[05-29-2017 @ 15:16:17.119 GMT] [init.js:572] sqeeBot enabled module "./systems/quoteSystem.js"
+[05-29-2017 @ 15:17:35.750 GMT] [init.js:572] sqeeBot enabled module "./handlers/keywordHandler.js"
+[05-29-2017 @ 15:20:24.617 GMT] [init.js:572] sqeeBot enabled module "./systems/bettingSystem.js"

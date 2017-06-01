@@ -1,0 +1,12 @@
+[05-31-2017 @ 22:41:30.248 GMT] jtv: now hosting rik_leah.
+[05-31-2017 @ 22:41:30.261 GMT] Received a start host mode notification on user rik_leah from jtv
+[06-01-2017 @ 08:31:34.550 GMT] jtv: now hosting maxximus2323.
+[06-01-2017 @ 08:31:34.553 GMT] Received a start host mode notification on user maxximus2323 from jtv
+[06-01-2017 @ 08:41:49.707 GMT] jtv: now hosting maxximus2323.
+[06-01-2017 @ 08:41:49.708 GMT] Received a start host mode notification on user maxximus2323 from jtv
+[06-01-2017 @ 09:45:47.962 GMT] jtv: maxximus2323 has gone offline. exiting host mode.
+[06-01-2017 @ 09:45:47.962 GMT] jtv: maxximus2323 has gone offline. exiting host mode.
+[06-01-2017 @ 09:47:12.161 GMT] jtv: now hosting maxximus2323.
+[06-01-2017 @ 09:47:12.162 GMT] Received a start host mode notification on user maxximus2323 from jtv
+[06-01-2017 @ 09:48:46.194 GMT] jtv: exited host mode.
+[06-01-2017 @ 09:48:46.194 GMT] jtv: exited host mode.
